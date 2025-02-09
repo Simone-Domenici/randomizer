@@ -8,7 +8,7 @@ export default function App() {
     <Router>
       <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center justify-center">
         <motion.h1 
-          className="text-4xl font-bold mb-6" 
+          className="text-4xl font-bold my-10" 
           initial={{ opacity: 0, y: -20 }} 
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}

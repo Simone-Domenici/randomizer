@@ -143,7 +143,7 @@ function Randomizer() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-[#0a192f] to-[#1e293b] text-white p-8">
-      <h1 className="text-5xl font-bold text-center mb-12">Randomizer</h1>
+      <h1 className="text-5xl font-bold text-center mb-12">Wheel</h1>
       <div className="flex flex-col md:flex-row gap-8 max-w-6xl mx-auto">
         {/* Colonna della ruota */}
         <div className="flex-1 flex flex-col items-center relative">

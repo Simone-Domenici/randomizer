@@ -16,7 +16,7 @@ export default function App() {
           Randomizer App
         </motion.h1>
         <Routes>
-          <Route path="/" element={<Randomizer />} />
+          <Route path="randomizer/" element={<Randomizer />} />
         </Routes>
       </div>
     </Router>
